@@ -1,0 +1,20 @@
+NFL_player_defense
+fid - franchise ID code
+season - AFL or NFL season
+playerid - player ID code
+g - season games played
+int - season interception returns
+iyds - season interception return yards
+itd - season interception return touchdowns
+ts - solo tackles beginning in 1994
+ta - assisted tackles beginning in 1994
+tt - total tackles beginning in 1994
+tfl - tackles for loss beginning in 1999
+sk - sacks beginning in 1994
+pd - passes defended beginning in 1999
+fum - fumbles committed beginning in 1994
+fr - fumble recoveries beginning in 1994
+fryds - fumble return yards beginning in 1994
+frtd - fumble return touchdowns beginning in 1994
+ff - forced fumbles beginning in 1994
+sft - safety recorded beginning in 1994

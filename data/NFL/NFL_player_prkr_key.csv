@@ -1,0 +1,11 @@
+NFL_player_krpr
+fid - franchise ID code
+season - AFL or NFL season
+playerid - player ID code
+g - season games played
+pr - season punt returns
+pryds - season punt return yards
+prtd - season punt return touchdowns
+kr - season kickoff returns
+kryds - season kickoff return yards
+krtd - season kickoff return touchdowns

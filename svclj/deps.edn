@@ -1,0 +1,27 @@
+{:paths ["resources" "src"]
+ :deps {org.clojure/clojure {:mvn/version "1.10.1"}
+        org.clojure/clojurescript {:mvn/version "1.10.520"}
+        mount {:mvn/version "0.1.16"}
+
+        metosin/reitit {:mvn/version "0.3.10"}
+        ring/ring-core {:mvn/version "1.7.1"}
+        ring/ring-defaults {:mvn/version "0.3.2"}
+        com.taoensso/nippy {:mvn/version "2.14.0"}
+
+        metasoarous/oz {:mvn/version "1.6.0-alpha5"}
+
+        reagent {:mvn/version "0.9.0-SNAPSHOT"}
+        net.ofnir/antizer {:mvn/version "3.23.4-0"}
+        cljs-ajax {:mvn/version "0.8.0"}
+
+        org.clojure/data.csv {:mvn/version "0.1.4"}
+        semantic-csv {:mvn/version "0.2.1-alpha1"}
+        hiccup-table {:mvn/version "0.2.0"}
+        cheshire {:mvn/version "5.9.0"}}
+ :aliases
+ {:test {:extra-paths ["test"]
+         :extra-deps {org.clojure/test.check {:mvn/version "0.10.0"}}}
+  :fig
+  {:extra-deps {com.bhauman/figwheel-main {:mvn/version "0.2.3"}}
+   :extra-paths ["target"]
+   :main-opts ["-m" "figwheel.main" "-b" "dev" "-r"]}}}

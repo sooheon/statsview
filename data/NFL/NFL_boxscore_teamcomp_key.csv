@@ -1,0 +1,26 @@
+NFL_boxscore_teamcomp
+season - AFL or NFL season beginning 1939
+boxscoreid - Boxscore ID code
+fid - franchise ID code
+home - team is home (true) or road (false)
+fd - game first downs
+ratt - game rushing attempts
+rnet -game rushing yards
+rtd - game rushing touchdowns
+patt - game pass attempts
+pcmp - game pass completions
+ptd - game touchdowns thrown
+pint - game interceptions thrown
+sacked - game times sacked
+sacked_yds - game sacked yards
+total_yds - game total yards
+fum - game fumbles
+fumlost - game fumbles lost
+pen - game penalties
+penyds - game yards penalized
+thirddownconv - game third down conversions (begins 1991)
+thirddownatt - game third down attempts (begins 1991)
+fourthdownconv - game fourth down conversions (begins 1991)
+fourthdownatt - game fourth down attempts (begins 1991)
+scrim_plays - game plays from scrimmage including times sacked
+top - time of possession in minutes (begins 1983)

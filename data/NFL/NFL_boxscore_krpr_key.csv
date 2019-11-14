@@ -1,0 +1,13 @@
+NFL_boxscore_defkrpr
+boxscoreid - Boxscore ID code
+season - AFL or NFL season beginning 1960
+Player - player name
+playerid - player ID code
+home - team is home (true) or road (false)
+fid - franchise ID code
+kr - game kickoff returns
+kryds - game kickoff return yards
+krtd - game kickoff return touchdowns
+pr - game punt returns
+pryds - game punt return yards
+prtd - game punt return touchdowns

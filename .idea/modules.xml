@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/statsview.iml" filepath="$PROJECT_DIR$/.idea/statsview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/svclj/svclj.iml" filepath="$PROJECT_DIR$/svclj/svclj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stats_view/svpy.iml" filepath="$PROJECT_DIR$/stats_view/svpy.iml" />
+    </modules>
+  </component>
+</project>

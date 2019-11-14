@@ -1,0 +1,26 @@
+NFL_boxscore_gamedetail
+boxscoreid - boxscore ID code
+season - AFL or NFL season
+date - game date
+day - game day of the week
+venue - game stadium
+length - game length
+attendance - game attendance
+road - road team
+road_fid - road franchise ID code
+road_1 - road scoring first quarter
+road_2 - road scoring second quarter
+road_3 - road scoring third quarter
+road_4 - road scoring fourth quarter
+road_ot - road scoring first overtime
+road_ot2 - road scoring second overtime
+road_Final - road final score
+home - home team
+home_fid - home franchise ID code
+home_1 - home scoring first quarter
+home_2 - home scoring second quarter
+home_3 - home scoring third quarter
+home_4 - home scoring fourth quarter
+home_ot - home scoring first overtime
+home_ot2 - home scoring second overtime
+home_Final - home final score

@@ -1,0 +1,71 @@
+NFL_team_table
+fid - franchise ID code
+team - APFA or AFL or NFL team name
+season - APFA or AFL or NFL regular season through 2016
+league - APFA or AFL or NFL
+points - season points scored
+yards - season yards from scrimmage (includes sacked yardage beginning in 1949)
+plays - season plays from scrimmage (includes sacks surrendered beginning in 1949)
+fd - season first downs
+to - season turnovers
+pen - season penalties
+penyds - season yards penalized
+fdpen - season first downs by penalty
+patt - season pass attempts
+pcmp - season pass completions
+pyds - season passing yards (includes sacked yardage beginning in 1949)
+ptd - season touchdowns thrown
+pint - season interceptions thrown
+fdp - season first downs by pass
+ratt - season rushing attempts
+rnet - season net rushing yards
+rtd - season rushing touchdowns
+fdr - first downs by run
+int - season interception returns
+iyds - season interception return yards
+itd - season interception return touchdowns
+pr - season punt returns
+pryds - season punt return yards
+prtd - season punt return touchdowns
+kr - season kickoff returns
+kryds - season kickoff return yards
+krtd - season kickoff return touchdowns
+patm - season point after touchdown makes
+pata - season point after touchdown attempts
+fgm - season field goals made
+fga - season field goal attempts
+pt - season punts
+ptyds - season punting yards
+opp_points - opponent points
+opp_yards - opponent yards from scrimmage (includes sacked yardage beginning in 1949)
+opp_plays - opponent plays from scrimmage (includes sacks surrendered beginning in 1949)
+opp_fd - opponent first downs
+opp_to - opponent turnovers
+opp_pen - opponent penalties
+opp_penyds - opponent yards penalized
+opp_fdpen - opponent first downs by penalty
+opp_patt - opponent pass attempts
+opp_pcmp - opponent pass completions
+opp_pyds - opponent passing yards (includes sacked yardage beginning in 1949)
+opp_ptd - opponent touchdowns thrown
+opp_pint - opponent interceptions thrown
+opp_fdp - opponent first downs by pass
+opp_ratt - opponent rushing attempts
+opp_rnet - opponent net rushing yards
+opp_rtd - opponent rushing touchdowns
+opp_fdr - opponent first downs by run
+opp_int - opponent interception returns
+opp_iyds - opponent interception return yards
+opp_itd - opponent interception return touchdowns
+opp_pr - opponent punt returns
+opp_pryds - opponent punt return yards
+opp_prtd - opponent punt return touchdowns
+opp_kr - opponent kickoff returns
+opp_kryds - opponent kickoff return yards
+opp_krtd - opponent kickoff return touchdowns
+opp_patm - opponent point after touchdown makes
+opp_pata - opponent point after touchdown attempts
+opp_fgm - opponent field goals made
+opp_fga - opponent field goal attempts
+opp_pt - opponent punts
+opp_ptyds - opponent punting yards

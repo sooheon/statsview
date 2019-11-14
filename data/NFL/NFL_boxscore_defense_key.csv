@@ -1,0 +1,19 @@
+NFL_boxscore_defense
+boxscoreid - Boxscore ID code
+season - AFL or NFL season begins 1960
+Player - player name
+playerid - player ID code
+home - team is home (true) or road (false)
+fid - franchise ID code
+int - game interception returns
+iyds - game interception return yards
+itd - game interception return touchdowns
+ts - game solo tackles begins 1999
+ta - game assisted tackles begins 1999
+tt - game total tackles begins 1999
+sk - game sacks officially begins 1982 unofficial previous
+pd - game pass defended begins 1999
+fr - game fumble recoveries
+fryds - game fumble return yards
+frtd - game fumble return touchdown
+ff - game forced fumbles begins 1999

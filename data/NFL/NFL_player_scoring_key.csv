@@ -1,0 +1,13 @@
+NFL_player_scoring
+fid - franchise ID code
+season - AFL or NFL season
+playerid - player ID code
+g - season games played
+td - season touchdowns
+conv2p - season two-point conversions
+patm - season point after touchdown makes
+pata - season point after touchdown attempts
+fgm - season field goals made
+fga - season field goal attempts
+saf - season safeties
+points - season points

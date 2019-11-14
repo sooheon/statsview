@@ -1,0 +1,10 @@
+NFL_player_pass
+fid - franchise ID code
+season - AFL or NFL season
+playerid - player ID code
+g - season games played
+patt - season pass attempts
+pcmp - season pass completions
+pyds - season passing yards
+ptd - season touchdowns thrown
+pint - season interceptions thrown

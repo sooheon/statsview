@@ -1,0 +1,11 @@
+NFL_player_kick
+fid - franchise ID code
+season - AFL or NFL season
+playerid - player ID code
+g - season games played
+fgm - season field goals made
+fga - season field goal attempts
+patm - season point after touchdown makes
+pata - season point after touchdown attempts
+pt - season punts
+ptyds - season punting yards

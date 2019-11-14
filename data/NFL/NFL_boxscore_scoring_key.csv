@@ -1,0 +1,11 @@
+NFL_boxscore_scoring
+season - AFL or NFL season
+boxscoreid - Boxscore ID code
+quarter - quarter of event
+quarter_clock - time remaining in quarter when event occurred begins 1999
+scoring_fid - franchise ID code of scoring team
+event - scoring event
+road_fid - franchise ID code of road team
+road_score - road team points following event
+home_fid - franchise ID code of home team
+home_score - home team points following event

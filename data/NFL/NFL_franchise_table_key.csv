@@ -1,0 +1,12 @@
+NFL_franchise table
+fid - franchise ID code
+franchise name - NFL franchise name
+team - NFL team name iteration
+league - APFA or NFL or AFL
+from - year of initial NFL season (1970 would mean the 1970 season)
+to - last year of NFL season (all current teams default to 2017)
+seasons - number of AFL or NFL playoff appearances including 2016 season
+div - number of AFL or NFL division titles including 2016 season
+conf - number of AFL or NFL conference titles including 2016 season
+league_champ - number of AFL or NFL champions including 2016 season
+sb_champ - number of Super Bowl champions

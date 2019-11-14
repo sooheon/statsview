@@ -1,0 +1,11 @@
+NFL_player_rushrec
+fid - franchise ID code
+season - AFL or NFL season
+playerid - player ID code
+g - season games played
+ratt - season rushing attempts
+rnet - season net rushing yards
+rtd - season rushing touchdowns
+rec - season receptions
+recyds - season receiving yards
+rectd- season receiving touchdowns
